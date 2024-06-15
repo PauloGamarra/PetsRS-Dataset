@@ -1,0 +1,85 @@
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/4092_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/4301_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8416_4.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8426_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/6026_4.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7590_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7590.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/9239_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8600_4.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/1750_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/1750_4.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/3322_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/4296_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8263.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5586_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5061_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5061.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5877_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/957_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5340.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7509_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8581_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/9240_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/9233_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5877_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/957_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/4894_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/4895_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7432_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/4175.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8682_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8271_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5605_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7140_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/9240.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/9233.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5867_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/9301.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7002_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7002_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5877.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/957.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8600_5.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8602_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/1400_4.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/1399_4.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8936.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8936_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/4741.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5680_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8622_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8622_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7456_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5013.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/1648_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/1653_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/6594_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5633_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/3972_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/3403_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/3403.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5952_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/712.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5633_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/6594_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/6605_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7719.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5231.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5234_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5376_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5378_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8426_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8416.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8005_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8304_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7667_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7667.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/9014_5.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/9014_7.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/4092.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/4301.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5013_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7456_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7631_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7095_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8886.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5358.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/6976.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/6011.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/1820_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/1819_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5013_4.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5013_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/9108.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8246_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/6011_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/6976_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/6011_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7112_4.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/9054_8.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5543_5.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5105_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5105.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5343.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/4175_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7432_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/4414_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/4414_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5867_4.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/9301_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/1623_4.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/1628_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/4444_4.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/4444_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/6973_4.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/6973_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8005.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8084_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/6710.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/6710_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/3322_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/4296_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5889_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5889.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7631_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7095_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/9108_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8246_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/9054_11.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5543_7.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/1819.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/1820.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7722_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/6973_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/922_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/922_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/1804_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8719_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/4175_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7432.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7432_6.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/4175_5.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5340_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7509.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8581.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7478_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7414_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5633.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/6594.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8426_4.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8416_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7596_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/6278_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/4175_4.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7432_5.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/1777_4.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/1777_5.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8416_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8426.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/9973_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/9051.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5543_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/9054_4.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5787_5.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5787_9.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5787_8.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5231_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5234_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5231_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5234.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7156.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/9046_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/9046.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5425.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/5673_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8602_4.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/3986.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/6604_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/4619.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/4296.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/3322.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7631.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7095.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/997.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/997_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/7513.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/cao/8582_2.png

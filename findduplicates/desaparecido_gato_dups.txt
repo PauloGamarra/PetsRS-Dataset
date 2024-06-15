@@ -1,0 +1,65 @@
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7004_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4413_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1211_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1215_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4920_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/8580_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1792.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/6413_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/625_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/626_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/9221_5.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/6842.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4159_6.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4472_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4920_5.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/8580_5.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/3932.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7926_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/3935.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7925_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/5506_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/5484_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/3918_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4920_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/8580.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/9212_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/9219_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/8395.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7332.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/3757_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4159.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4472.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4601_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/5014_6.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/6241_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/3886_4.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/3871_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1128_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/8380_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/5988_4.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/8926_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/5187_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/6556_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4338_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4935_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/5261_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7986.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/9221_7.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4722_4.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4722_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/796_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/742.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/6742_4.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/6650_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4252.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7032_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7741_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1851_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/6988_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1958_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1125_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7053_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7053.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4430_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4430_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7961.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/9463.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/5014_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1211_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1215_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7301_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/6870.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/6870_4.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/8598_4.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/3663_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/8934_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/8934.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1958_5.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1125.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4472_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4159_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/9219.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/9212.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1125_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1958_4.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4601.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/5014_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4920.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/9174.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/8580_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7489_4.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7489_6.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/9219_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/9212_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/6986.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1857.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/3871.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/3886_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/3886_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/3871_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/8204.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/3492_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1857_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/6986_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7925.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/3935_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/6842_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/9221_9.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1127_6.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1127_5.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/8618_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/8618_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1161_5.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1158_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1159_5.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1163_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7539_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/3581_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1127_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/9216_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/3831_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/3757.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/6875_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/6742_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/6650.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/745_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/742_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7539.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/3581.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/8008.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/9977_4.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1851_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/6988_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4159_7.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4472_4.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7602_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/6443_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1792_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/6413.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7741.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7032.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7032_4.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7741_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7004_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4413_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/7004.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/4413.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/879_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/880_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/6350_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/6350.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/1851.png /home/paulogamarra/data/tcc/pets_dataset_imgs/desaparecido/gato/6988.png
