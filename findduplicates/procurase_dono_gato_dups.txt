@@ -1,0 +1,14 @@
+/home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/5302_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/5294_5.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/4170_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/8820.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/8767_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/8797_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/7175.png /home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/7175_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/8767.png /home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/8797.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/8797_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/8767_3.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/5302_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/5294_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/7074_3.png /home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/8812_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/8761_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/7029_4.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/8989_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/4168_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/4170.png /home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/8820_2.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/8989.png /home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/4168.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/5294_6.png /home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/5302_4.png
+/home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/8780_2.png /home/paulogamarra/data/tcc/pets_dataset_imgs/procurase_dono/gato/7809.png
