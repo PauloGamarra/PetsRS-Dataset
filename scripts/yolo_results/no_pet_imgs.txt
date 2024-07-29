@@ -1,0 +1,103 @@
+/data/desaparecido/cao/4861_2.png person person
+/data/desaparecido/cao/8335_2.png person
+/data/desaparecido/cao/9294_3.png 
+/data/desaparecido/cao/8594_3.png sheep
+/data/desaparecido/cao/3655_2.png bear
+/data/desaparecido/cao/4539_2.png bear
+/data/desaparecido/cao/4996.png cow
+/data/desaparecido/cao/6394.png horse
+/data/desaparecido/cao/1750_5.png bear person
+/data/desaparecido/cao/7505_2.png person
+/data/desaparecido/cao/9918_2.png person
+/data/desaparecido/cao/4061_2.png bear bear
+/data/desaparecido/cao/9550_3.png bed bed
+/data/desaparecido/cao/5892_2.png person
+/data/desaparecido/cao/6326.png cow person sink
+/data/desaparecido/cao/9684_3.png sheep
+/data/desaparecido/cao/1750_2.png bear
+/data/desaparecido/cao/8032_2.png bear
+/data/desaparecido/cao/8700_2.png bear teddy bear
+/data/desaparecido/cao/6391.png oven
+/data/desaparecido/cao/6026_4.png bear
+/data/desaparecido/cao/6050_3.png person person
+/data/desaparecido/cao/8563.png person surfboard
+/data/desaparecido/cao/7143_3.png bird
+/data/desaparecido/cao/6346_2.png sports ball
+/data/desaparecido/cao/7505.png person person
+/data/desaparecido/cao/3569_3.png bear
+/data/desaparecido/cao/7775_2.png 
+/data/desaparecido/cao/8392.png bear
+/data/desaparecido/cao/7603.png cow snowboard cow
+/data/desaparecido/cao/9538_2.png horse
+/data/desaparecido/cao/8335_4.png person
+/data/desaparecido/cao/4239_3.png clock
+/data/desaparecido/cao/7875.png person cow bird cow
+/data/desaparecido/cao/950_2.png bird
+/data/desaparecido/cao/7407_2.png bear
+/data/desaparecido/cao/7061_3.png bear bottle
+/data/desaparecido/cao/5759.png zebra car person
+/data/desaparecido/cao/408.png bear elephant
+/data/desaparecido/cao/4825_2.png bear
+/data/desaparecido/cao/4999.png cow
+/data/desaparecido/gato/1379_4.png bear chair
+/data/desaparecido/gato/4769_3.png teddy bear chair
+/data/desaparecido/gato/7322.png person
+/data/desaparecido/gato/8547_2.png 
+/data/desaparecido/gato/7962_4.png donut
+/data/desaparecido/gato/7962.png toilet
+/data/desaparecido/gato/8928_4.png bear
+/data/desaparecido/gato/4481.png bear
+/data/desaparecido/gato/7962_5.png 
+/data/desaparecido/gato/7748_4.png bear teddy bear teddy bear bed
+/data/desaparecido/gato/6798_2.png 
+/data/procurase_dono/cao/6721.png bear
+/data/procurase_dono/cao/3782_3.png bus
+/data/procurase_dono/cao/3385_6.png 
+/data/procurase_dono/cao/7317_2.png 
+/data/procurase_dono/cao/4223_8.png bear
+/data/procurase_dono/cao/5547_2.png bear bird
+/data/procurase_dono/cao/7681_3.png 
+/data/procurase_dono/cao/7689_4.png 
+/data/procurase_dono/cao/5439.png bear sports ball
+/data/procurase_dono/cao/5439_6.png bear
+/data/procurase_dono/cao/5557_2.png sheep sheep
+/data/procurase_dono/cao/9914_4.png knife sink knife surfboard
+/data/procurase_dono/cao/5369_4.png bear
+/data/procurase_dono/cao/4470_2.png clock
+/data/procurase_dono/cao/8876_4.png bear
+/data/procurase_dono/cao/703_3.png sheep
+/data/procurase_dono/cao/4165_9.png bear horse
+/data/procurase_dono/cao/7377_8.png bear bear
+/data/procurase_dono/cao/5439_2.png bear bed
+/data/procurase_dono/cao/3853.png sheep person person
+/data/procurase_dono/cao/4519.png fire hydrant clock
+/data/procurase_dono/cao/3850_3.png sheep bear
+/data/procurase_dono/cao/4712_4.png bear
+/data/procurase_dono/cao/4711_3.png bear
+/data/procurase_dono/cao/4167_4.png bear bed
+/data/procurase_dono/cao/6777.png cow person
+/data/procurase_dono/cao/9250_4.png person
+/data/procurase_dono/cao/4184_7.png 
+/data/procurase_dono/cao/5296_2.png 
+/data/procurase_dono/cao/8876_3.png bear bear
+/data/procurase_dono/cao/4183_2.png horse
+/data/procurase_dono/cao/7342_4.png bear bed
+/data/procurase_dono/cao/4188_5.png bear
+/data/procurase_dono/cao/4192.png bear
+/data/procurase_dono/cao/9562_6.png person
+/data/procurase_dono/cao/1365_3.png person person
+/data/procurase_dono/cao/4165_6.png sheep
+/data/procurase_dono/cao/9594.png teddy bear bed
+/data/procurase_dono/cao/7065_3.png person bird
+/data/procurase_dono/cao/6115_2.png person cell phone
+/data/procurase_dono/cao/6997_5.png 
+/data/procurase_dono/cao/7767_4.png bear
+/data/procurase_dono/cao/4224_6.png cow bear
+/data/procurase_dono/cao/3860.png bear
+/data/procurase_dono/cao/3869_12.png bear
+/data/procurase_dono/cao/5403_11.png person bear
+/data/procurase_dono/cao/1875.png teddy bear
+/data/procurase_dono/cao/7371_3.png person
+/data/procurase_dono/cao/4707_6.png person book
+/data/procurase_dono/gato/5294_6.png 
+/data/procurase_dono/gato/7201_3.png bear
