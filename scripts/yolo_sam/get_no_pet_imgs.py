@@ -5,7 +5,7 @@ import ultralytics
 from tqdm import tqdm
 
 
-detection_model = ultralytics.YOLO("../server/models/yolov8x.pt")
+detection_model = ultralytics.YOLO("yolov10x.pt")
 
 interest_classes = ['dog', 'cat']
 
