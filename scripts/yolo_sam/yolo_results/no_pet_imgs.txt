@@ -1,0 +1,112 @@
+/data/desaparecido/cao/5329_3.png cow
+/data/desaparecido/cao/8335_2.png person
+/data/desaparecido/cao/7590_4.png person donut person
+/data/desaparecido/cao/7643_2.png person giraffe
+/data/desaparecido/cao/9294_3.png 
+/data/desaparecido/cao/9535_2.png cow
+/data/desaparecido/cao/1096_2.png 
+/data/desaparecido/cao/4034_2.png person person
+/data/desaparecido/cao/4539.png bear
+/data/desaparecido/cao/8688_3.png 
+/data/desaparecido/cao/4539_2.png bear
+/data/desaparecido/cao/8952.png giraffe giraffe
+/data/desaparecido/cao/6394.png horse
+/data/desaparecido/cao/1750_5.png bear person
+/data/desaparecido/cao/7505_2.png person
+/data/desaparecido/cao/1086.png cow cow
+/data/desaparecido/cao/9162_2.png bear person
+/data/desaparecido/cao/9918_2.png person
+/data/desaparecido/cao/9918.png teddy bear
+/data/desaparecido/cao/6326.png cow person
+/data/desaparecido/cao/9684_3.png sheep
+/data/desaparecido/cao/5916_7.png sheep chair
+/data/desaparecido/cao/9920_3.png bear
+/data/desaparecido/cao/8032_2.png cow
+/data/desaparecido/cao/8700_2.png 
+/data/desaparecido/cao/6391.png 
+/data/desaparecido/cao/6114_2.png teddy bear teddy bear
+/data/desaparecido/cao/7143_3.png 
+/data/desaparecido/cao/9167.png sheep
+/data/desaparecido/cao/7505.png person person
+/data/desaparecido/cao/7775_2.png 
+/data/desaparecido/cao/7643.png person giraffe giraffe
+/data/desaparecido/cao/9539.png cow person
+/data/desaparecido/cao/8335_4.png 
+/data/desaparecido/cao/925.png teddy bear
+/data/desaparecido/cao/4239_3.png 
+/data/desaparecido/cao/7875.png person person
+/data/desaparecido/cao/950_2.png bird
+/data/desaparecido/cao/7061_3.png bear
+/data/desaparecido/cao/7740_2.png bird
+/data/desaparecido/cao/5759.png car zebra
+/data/desaparecido/cao/9291_2.png person horse
+/data/desaparecido/cao/6114_3.png car teddy bear
+/data/desaparecido/cao/4999.png cow
+/data/desaparecido/cao/5321.png sheep
+/data/desaparecido/gato/1379_4.png bear
+/data/desaparecido/gato/7748.png bear
+/data/desaparecido/gato/7322.png person
+/data/desaparecido/gato/7642_3.png 
+/data/desaparecido/gato/8547_2.png 
+/data/desaparecido/gato/4883_2.png bowl bowl bird bowl
+/data/desaparecido/gato/4481.png bear
+/data/desaparecido/gato/7962_5.png 
+/data/desaparecido/gato/7748_4.png bear teddy bear bed
+/data/desaparecido/gato/6798_2.png 
+/data/procurase_dono/cao/9173.png person bed
+/data/procurase_dono/cao/3782_3.png book
+/data/procurase_dono/cao/3385_6.png 
+/data/procurase_dono/cao/9628.png bear
+/data/procurase_dono/cao/7317_2.png 
+/data/procurase_dono/cao/4732_2.png cow person
+/data/procurase_dono/cao/7681_3.png 
+/data/procurase_dono/cao/7689_4.png 
+/data/procurase_dono/cao/5439_6.png bear
+/data/procurase_dono/cao/4165_5.png sheep
+/data/procurase_dono/cao/8950_2.png person giraffe
+/data/procurase_dono/cao/9914_4.png 
+/data/procurase_dono/cao/9562_5.png cake banana
+/data/procurase_dono/cao/4165_7.png sheep person person
+/data/procurase_dono/cao/6262_2.png teddy bear
+/data/procurase_dono/cao/5369_4.png cow cow
+/data/procurase_dono/cao/3853_2.png frisbee sheep
+/data/procurase_dono/cao/4470_2.png 
+/data/procurase_dono/cao/8876_4.png bear
+/data/procurase_dono/cao/5437_11.png bed
+/data/procurase_dono/cao/5440_11.png horse
+/data/procurase_dono/cao/3860_2.png 
+/data/procurase_dono/cao/4165_9.png bear bear
+/data/procurase_dono/cao/3782_7.png person
+/data/procurase_dono/cao/4259_2.png 
+/data/procurase_dono/cao/3853.png sheep person person
+/data/procurase_dono/cao/4712_4.png 
+/data/procurase_dono/cao/6041_5.png bed
+/data/procurase_dono/cao/8704_2.png 
+/data/procurase_dono/cao/9250_4.png person remote remote
+/data/procurase_dono/cao/5296_2.png clock
+/data/procurase_dono/cao/8876_3.png bear bear
+/data/procurase_dono/cao/3699_3.png person
+/data/procurase_dono/cao/9562_6.png carrot
+/data/procurase_dono/cao/3913_3.png bed
+/data/procurase_dono/cao/4165_6.png cow
+/data/procurase_dono/cao/4705_3.png 
+/data/procurase_dono/cao/5577.png 
+/data/procurase_dono/cao/8400_9.png person bear bird
+/data/procurase_dono/cao/8876_5.png bear
+/data/procurase_dono/cao/7065_3.png person
+/data/procurase_dono/cao/6115_2.png person remote
+/data/procurase_dono/cao/6997_5.png 
+/data/procurase_dono/cao/9138.png bear
+/data/procurase_dono/cao/4165_8.png bear
+/data/procurase_dono/cao/9570_2.png 
+/data/procurase_dono/cao/4712_5.png 
+/data/procurase_dono/cao/3869_12.png 
+/data/procurase_dono/cao/5403_11.png person bear
+/data/procurase_dono/cao/1875.png 
+/data/procurase_dono/cao/4707_6.png sandwich
+/data/procurase_dono/gato/5294_6.png 
+/data/procurase_dono/gato/3538_2.png person bottle
+/data/procurase_dono/gato/6450.png person
+/data/procurase_dono/gato/6404.png person teddy bear
+/data/procurase_dono/gato/8270_3.png person
+/data/procurase_dono/gato/7037_2.png person
