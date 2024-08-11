@@ -28,4 +28,4 @@ for imgs_dir in imgs_dirs:
         img_path = img_path.replace(pets_imgs_dir,'pets_rs_imgs')
         imgs_df = imgs_df.append({'img_path':img_path}, ignore_index=True)
 
-imgs_df.to_csv('pets.csv', index=False)
+imgs_df.to_csv('pets_dups_removed.csv', index=False)
