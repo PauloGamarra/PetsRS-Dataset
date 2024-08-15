@@ -2,9 +2,9 @@ import os
 from sklearn.neighbors import NearestNeighbors
 import numpy as np
 import sys
+from sklearn.preprocessing import normalize
 
-
-def evaluate_knn(encodings_path, k=10):
+def evaluate_knn(encodings_path, k):
     query_dir = os.path.join(encodings_path, 'query')
     candidate_dir = os.path.join(encodings_path , 'candidate')
 
@@ -27,12 +27,22 @@ def evaluate_knn(encodings_path, k=10):
         candidate_encodings = np.concatenate([candidate_encodings, np.load(candidate_path)])
 
 
+    
     knn = NearestNeighbors(n_neighbors=k, metric="cosine")
-    knn.fit(candidate_encodings)
+    
+    # norm_candidate_encodings = normalize(candidate_encodings, norm='l2')
+    # knn.fit(norm_candidate_encodings)
 
+    knn.fit(candidate_encodings)
+    
     hits = 0 
     for idx in range(len(query_encodings)):
+        
+        # norm_query_encodings = normalize(query_encodings[idx].reshape(1,-1), norm='l2')
+        # _, neighbors_idx = knn.kneighbors(norm_query_encodings)
+        
         _, neighbors_idx = knn.kneighbors(query_encodings[idx].reshape(1,-1))
+        
         query_results = [candidate_files[cand_idx] for cand_idx in neighbors_idx[0]]
         hit = query_files[idx] in query_results
         if hit:
@@ -43,7 +53,7 @@ def evaluate_knn(encodings_path, k=10):
     return
 
 
-def evaluate_encodings(encodings_dir):
+def evaluate_encodings(encodings_dir, k):
 
     pre_processings = ['crop_original', 'crop_segmented']
     origins = ['desaparecido', 'procurase_dono']
@@ -54,8 +64,11 @@ def evaluate_encodings(encodings_dir):
             for species in speciess:
                 results_path = os.path.join(os.path.join(encodings_dir, pre_processing),os.path.join(origin, species))
                 print(results_path)
-                evaluate_knn(results_path)
+                evaluate_knn(results_path, k)
 
 
 if __name__ == '__main__':
-    evaluate_encodings(sys.argv[1])
+    results_dir = sys.argv[1]
+    k = int(sys.argv[2])
+    print('evaluating encodings on {} with k = {}'.format(results_dir, k))
+    evaluate_encodings(results_dir, k)
