@@ -48,7 +48,7 @@ def evaluate_knn(encodings_path, k):
         if hit:
             hits += 1
     acc = hits / len(query_encodings)
-    print('acc: {}'.format(acc))
+    print('acc: {}'.format(round(acc*100,2)))
 
     return
 

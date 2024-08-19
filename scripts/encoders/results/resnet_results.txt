@@ -1,0 +1,51 @@
+evaluating encodings on results/resnet/ with k = 1
+results/resnet/crop_original/desaparecido/cao
+acc: 40.44
+results/resnet/crop_original/desaparecido/gato
+acc: 26.13
+results/resnet/crop_original/procurase_dono/cao
+acc: 53.54
+results/resnet/crop_original/procurase_dono/gato
+acc: 41.86
+results/resnet/crop_segmented/desaparecido/cao
+acc: 33.97
+results/resnet/crop_segmented/desaparecido/gato
+acc: 20.95
+results/resnet/crop_segmented/procurase_dono/cao
+acc: 43.46
+results/resnet/crop_segmented/procurase_dono/gato
+acc: 33.14
+evaluating encodings on results/resnet/ with k = 5
+results/resnet/crop_original/desaparecido/cao
+acc: 60.98
+results/resnet/crop_original/desaparecido/gato
+acc: 39.19
+results/resnet/crop_original/procurase_dono/cao
+acc: 70.52
+results/resnet/crop_original/procurase_dono/gato
+acc: 58.72
+results/resnet/crop_segmented/desaparecido/cao
+acc: 50.71
+results/resnet/crop_segmented/desaparecido/gato
+acc: 31.08
+results/resnet/crop_segmented/procurase_dono/cao
+acc: 60.45
+results/resnet/crop_segmented/procurase_dono/gato
+acc: 51.74
+evaluating encodings on results/resnet/ with k = 20
+results/resnet/crop_original/desaparecido/cao
+acc: 78.83
+results/resnet/crop_original/desaparecido/gato
+acc: 54.5
+results/resnet/crop_original/procurase_dono/cao
+acc: 82.1
+results/resnet/crop_original/procurase_dono/gato
+acc: 73.84
+results/resnet/crop_segmented/desaparecido/cao
+acc: 67.93
+results/resnet/crop_segmented/desaparecido/gato
+acc: 48.42
+results/resnet/crop_segmented/procurase_dono/cao
+acc: 74.69
+results/resnet/crop_segmented/procurase_dono/gato
+acc: 63.37

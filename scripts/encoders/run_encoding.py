@@ -15,13 +15,13 @@ encoder_name = sys.argv[3]
 
 
 if encoder_name == 'clip':
-    encoding_model = CLIPModel.from_pretrained("openai/clip-vit-base-patch32")
+    encoding_model = CLIPModel.from_pretrained("openai/clip-vit-large-patch14-336")
     encoding_model.to('cuda')
-    processor = CLIPProcessor.from_pretrained("openai/clip-vit-base-patch32")
+    processor = CLIPProcessor.from_pretrained("openai/clip-vit-large-patch14-336")
 
 
 if encoder_name == 'dino':
-    encoding_model = torch.hub.load("facebookresearch/dinov2", "dinov2_vits14")
+    encoding_model = torch.hub.load("facebookresearch/dinov2", "dinov2_vitl14")
     device = torch.device('cuda' if torch.cuda.is_available() else "cpu")
     encoding_model.to(device)
 

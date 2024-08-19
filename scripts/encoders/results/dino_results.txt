@@ -1,0 +1,51 @@
+evaluating encodings on results/dino/ with k = 1
+results/dino/crop_original/desaparecido/cao
+acc: 40.6
+results/dino/crop_original/desaparecido/gato
+acc: 29.28
+results/dino/crop_original/procurase_dono/cao
+acc: 55.62
+results/dino/crop_original/procurase_dono/gato
+acc: 45.93
+results/dino/crop_segmented/desaparecido/cao
+acc: 35.39
+results/dino/crop_segmented/desaparecido/gato
+acc: 23.87
+results/dino/crop_segmented/procurase_dono/cao
+acc: 47.63
+results/dino/crop_segmented/procurase_dono/gato
+acc: 47.09
+evaluating encodings on results/dino/ with k = 5
+results/dino/crop_original/desaparecido/cao
+acc: 61.3
+results/dino/crop_original/desaparecido/gato
+acc: 47.07
+results/dino/crop_original/procurase_dono/cao
+acc: 70.02
+results/dino/crop_original/procurase_dono/gato
+acc: 63.37
+results/dino/crop_segmented/desaparecido/cao
+acc: 50.08
+results/dino/crop_segmented/desaparecido/gato
+acc: 39.64
+results/dino/crop_segmented/procurase_dono/cao
+acc: 62.53
+results/dino/crop_segmented/procurase_dono/gato
+acc: 58.14
+evaluating encodings on results/dino/ with k = 20
+results/dino/crop_original/desaparecido/cao
+acc: 78.67
+results/dino/crop_original/desaparecido/gato
+acc: 66.67
+results/dino/crop_original/procurase_dono/cao
+acc: 80.1
+results/dino/crop_original/procurase_dono/gato
+acc: 80.23
+results/dino/crop_segmented/desaparecido/cao
+acc: 69.35
+results/dino/crop_segmented/desaparecido/gato
+acc: 59.46
+results/dino/crop_segmented/procurase_dono/cao
+acc: 71.77
+results/dino/crop_segmented/procurase_dono/gato
+acc: 72.09
