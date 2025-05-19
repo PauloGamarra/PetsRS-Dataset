@@ -4,6 +4,8 @@ import numpy as np
 import sys
 from sklearn.preprocessing import normalize
 
+VERSION = 'paper'
+
 def evaluate_knn(encodings_path, k):
     query_dir = os.path.join(encodings_path, 'query')
     candidate_dir = os.path.join(encodings_path , 'candidate')
@@ -54,17 +56,25 @@ def evaluate_knn(encodings_path, k):
 
 
 def evaluate_encodings(encodings_dir, k):
-
-    pre_processings = ['crop_original', 'crop_segmented']
-    origins = ['desaparecido', 'procurase_dono']
-    speciess = ['cao', 'gato']
-
-    for pre_processing in pre_processings:
+    if VERSION == 'tcc':
+        pre_processings = ['crop_original', 'crop_segmented']
+        origins = ['desaparecido', 'procurase_dono']
+        speciess = ['cao', 'gato']
+        for pre_processing in pre_processings:
+            for origin in origins:
+                for species in speciess:
+                    results_path = os.path.join(os.path.join(encodings_dir, pre_processing),os.path.join(origin, species))
+                    print(results_path)
+                    evaluate_knn(results_path, k)
+    if VERSION == 'paper':
+        origins = ['lost', 'found']
+        speciess = ['dog', 'cat']
         for origin in origins:
             for species in speciess:
-                results_path = os.path.join(os.path.join(encodings_dir, pre_processing),os.path.join(origin, species))
+                results_path = os.path.join(encodings_dir, os.path.join(origin, species))
                 print(results_path)
                 evaluate_knn(results_path, k)
+
 
 
 if __name__ == '__main__':
