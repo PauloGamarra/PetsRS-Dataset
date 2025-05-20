@@ -2,18 +2,17 @@
 The PetsRS-Dataset is a collection of dog and cat images organized in image pairs that belong to the same individual. 
 This dataset is intended to be used for evaluating instance-level identification models for pet recognition and/or 
 verification. The dataset is composed of 1834 images of dogs and 616 images of cats. These pictures were extracted 
-from the PetsRS website, an application created by volunteers in the context of the 2024 floodings in the region 
+from the [PetsRS website](https://petsrs.com.br/), an application created by volunteers in the context of the 2024 floodings in the region 
 surrounding the Guaiba waterbody in Rio Grande do Sul, Brazil. The application aims to reconnect pets and guardians 
 that were separated because of the floods during evacuations. On one end of this application, guardians searching 
 for their lost pets can submit pictures of the animal, on the other end, shelter volunteers and temporary guardians 
-of rescued pets can do the same. This results in a crowd-sourced open database of lost and rescued. Pet recognition 
-models were critical in this scenario and our dataset can evaluate how a model would perform in this real-world 
-scenario where this task was needed. 
+of rescued pets can do the same. This results in a crowd-sourced open database of lost and rescued pets. Pet recognition 
+models were critical in this scenario and our dataset can evaluate how such a model would perform in this situation. 
 
 ## License and dataset access
 
 The dataset is publicly available on Google Drive [here](https://drive.google.com/drive/folders/1ljLg3mMSA3FDYcFvf7QJnT5EHCj3yO4N). Any future versions of the dataset will be properly identified 
-and uploaded as a separate folder on the same Google Drive link, preserving the version described in this paper (1.0). 
+and uploaded as a separate folder on the same Google Drive link, preserving the version described in the paper (1.0). 
 This dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). This license allows for 
 sharing and adaptation with proper attribution.
 
@@ -57,3 +56,7 @@ You can also use the same recall evaluation script to compare a new model with t
 ```bat
 python recall_evaluation.py <path-to-generated-embeddings> <K-value>
 ```
+
+## Acknowledgments
+
+This work was part of the efforts to improve the PetsRS matching system and now can be used to evaluate future models that tackle the pet recognition problem. We would like to thank the [PetsRS team](https://petsrs.com.br/voluntarios) for creating the application that made this dataset and benchmark possible and for providing us with scripts to download the website images. We would also like to thank everyone who contributed to the crowdsourced PetsRS database. 
