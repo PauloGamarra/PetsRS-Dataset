@@ -49,8 +49,8 @@ def evaluate_knn(encodings_path, k):
         hit = query_files[idx] in query_results
         if hit:
             hits += 1
-    acc = hits / len(query_encodings)
-    print('acc: {}'.format(round(acc*100,2)))
+    recall = hits / len(query_encodings)
+    print('recall: {}'.format(round(recall*100,2)))
 
     return
 
